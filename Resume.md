@@ -2,7 +2,7 @@
 <br/>
 <p>电话: (86)13811007481</p>
 
-<p>电子邮件: <a href="mailto:chaisong.cn@gmail.com">mail.kuuy@gmail.com</a></p>
+<p>电子邮件: <a href="mailto:chaisong.cn@gmail.com">chaisong.cn@gmail.com</a></p>
 
 <hr>
 <h3>教育经历</h3>
@@ -16,6 +16,14 @@
 <p>本科 (2007.9 ~ 2011.7)</p>
 
 <p>西安交通大学 信息工程</p>
+</li>
+</ul>
+<h3>工作经历</h3>
+
+<ul>
+<li>
+<p>2014.4 – </p>
+<p>腾讯（广州） 微信产品部 IOS开发工程师</p>
 </li>
 </ul>
 
