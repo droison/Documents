@@ -54,9 +54,11 @@
 
 <ul>
 <li>
-<p>星酷壁纸 （2013.1）</p>
+<p>星酷壁纸 （2014.1~2014.2）</p>
 
-<p>android端的简单应用</p>
+<p>用于设置明星壁纸和锁屏的个性化android端应用，用户可以使用手机号、微博和QQ进行注册和登录，选择喜欢的壁纸进行点赞、设置和分享</p>
+<p><a href="https://github.com/droison/XKWallPaper">GitHub代码</a></p>
+<p><a href="">点此跳转到市场(尚未上架)</a></p>
 </li>
 <li>
 <p>易投信用卡管家</p>
